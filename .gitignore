@@ -1,0 +1,5 @@
+# Passwords and other sensitive data
+.env
+
+# Node modules
+node_modules
